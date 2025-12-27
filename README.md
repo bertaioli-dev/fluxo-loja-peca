@@ -10,6 +10,10 @@ Pra que serve?
 O que tem aqui dentro?
 - Um esboço bem inicial de como seria o funcionamento do estoque, BEM INICIAL MESMO.
 - Tenho a noção do que há por trás é MUITO maior (banco de dados, validações, segurança de dados...). Este é apenas o Inicio.
-  
-Como alguém usa ou entende isso?
-- 
+
+## 📌 Objetivo
+Representar visualmente as etapas do fluxo de negócio para facilitar
+o entendimento, estudo e futuras implementações em código.
+
+## 🧠 Observações
+Este repositório tem fins educacionais e de estudo.
